@@ -19,6 +19,7 @@ const Header = () => {
                 <button><h1>Регистрация</h1></button>
             </div>
            </div>
+
     );
 }
 export default Header
