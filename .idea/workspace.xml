@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c02145-3d9e-4d33-bbcc-0fcd9f03ffb4" name="Changes" comment="vb" />
+    <list default="true" id="96c02145-3d9e-4d33-bbcc-0fcd9f03ffb4" name="Changes" comment="vb">
+      <change beforePath="$PROJECT_DIR$/Bakcend/jh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/kljgfsd;" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +44,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674564531189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vb">
+      <created>1674564656683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674564656683</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vb">
+      <created>1674564692463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674564692463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
